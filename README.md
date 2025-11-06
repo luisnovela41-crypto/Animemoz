@@ -1,0 +1,2 @@
+# Animemoz
+Aplicativo Moçambicano de Animes e Loja
