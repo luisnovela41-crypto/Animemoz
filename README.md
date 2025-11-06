@@ -16,5 +16,5 @@ Acesse: https://seu-usuario.github.io/animemoz
 - Design responsivo
 - Cores inspiradas na bandeira de Moçambique
 
-## 📞 Contato
+## 📞 Contato~:858557459/873227581
 Desenvolvido com ❤️ para a comunidade de animes em Moçambique
